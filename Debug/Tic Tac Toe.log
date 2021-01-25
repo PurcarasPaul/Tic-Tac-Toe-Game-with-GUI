@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  Main.cpp
+C:\Users\Smurf\Documents\GitHub\Tic-Tac-Toe-Game-with-GUI\Main.cpp(417,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Smurf\Documents\GitHub\Tic-Tac-Toe-Game-with-GUI\Main.cpp(463,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Tic Tac Toe.vcxproj -> C:\Users\Smurf\Documents\GitHub\Tic-Tac-Toe-Game-with-GUI\Debug\Tic Tac Toe.exe
